@@ -1,8 +1,0 @@
-numpy 
-pandas
-seaborn 
-pickle
-tensorflow
-keras
-scikit-learn
-streamlit
